@@ -124,8 +124,145 @@ SESAC 7기 B팀이 개발한 **유기동물 입양 서비스 플랫폼**입니�
 - Docker (컨테이너 배포)
 
 ## 프로젝트 구조
+
+<details>
+<summary><strong>📁 프론트 구조</strong></summary>
+
+```
+.
+├── (site)
+│   ├── 401
+│   ├── 403
+│   ├── announcements
+│   │   ├── [id]
+│   │   │   ├── applications
+│   │   │   ├── apply
+│   │   │   └── form
+│   │   ├── create
+│   │   └── edit
+│   │       └── [id]
+│   ├── applications
+│   │   └── [id]
+│   ├── boards
+│   │   ├── [id]
+│   │   │   └── update
+│   │   └── new
+│   └── me
+├── auth
+│   ├── edit
+│   ├── login
+│   ├── signup
+│   └── withdraw
+├── components
+│   ├── announcementApplications
+│   ├── application
+│   │   └── form
+│   │       └── section
+│   └── boards
+├── lib
+├── store
+└── types
+```
+
+</details>
+<details>
+<summary><strong>📁 백엔드 구조</strong></summary>
+
+```
+.
+├── common
+│   ├── aspect
+│   ├── store
+│   └── utils
+│       └── security
+├── domain
+│   ├── announcement
+│   │   ├── controller
+│   │   ├── dto
+│   │   │   ├── request
+│   │   │   └── response
+│   │   ├── entity
+│   │   ├── repository
+│   │   └── service
+│   ├── application
+│   │   ├── controller
+│   │   ├── dto
+│   │   │   ├── request
+│   │   │   └── response
+│   │   │       └── detail
+│   │   ├── entity
+│   │   │   └── info
+│   │   │       ├── agreement
+│   │   │       ├── care
+│   │   │       ├── experience
+│   │   │       ├── family
+│   │   │       ├── financial
+│   │   │       ├── housing
+│   │   │       └── plan
+│   │   ├── repository
+│   │   ├── service
+│   │   └── validation
+│   ├── auth
+│   │   ├── authController
+│   │   ├── authService
+│   │   ├── dto
+│   │   │   ├── request
+│   │   │   └── response
+│   │   ├── entity
+│   │   └── repository
+│   ├── board
+│   │   ├── controller
+│   │   ├── dto
+│   │   │   ├── request
+│   │   │   └── response
+│   │   ├── entity
+│   │   ├── repository
+│   │   └── service
+│   ├── comment
+│   │   ├── controller
+│   │   ├── dto
+│   │   │   ├── request
+│   │   │   └── response
+│   │   ├── entity
+│   │   ├── repository
+│   │   └── service
+│   └── user
+│       ├── controller
+│       ├── dto
+│       │   ├── request
+│       │   └── response
+│       ├── entity
+│       ├── repository
+│       └── service
+└── global
+    ├── annotation
+    ├── config
+    ├── exception
+    │   ├── custom
+    │   ├── dto
+    │   │   └── response
+    │   └── handler
+    └── filter
+```
+
+</details>
+
+
+
 ## 개발 워크 플로우(브랜치 전략 칸반 했던거)
+
+<img width="638" height="403" alt="image" src="https://github.com/user-attachments/assets/25256957-d5af-456e-824d-878141cb81c9" />
+<img width="839" height="326" alt="image" src="https://github.com/user-attachments/assets/280552da-faba-47b4-ac19-2f8a577b8ebc" />
+<img width="562" height="443" alt="image" src="https://github.com/user-attachments/assets/12f34284-2b1c-4b00-b024-c6db3d903752" />
+<img width="704" height="440" alt="image" src="https://github.com/user-attachments/assets/802d121d-65db-42fb-88e9-5baf20bb1fa1" />
+<img width="879" height="401" alt="image" src="https://github.com/user-attachments/assets/ce5da51f-762f-45f9-9727-dc483da9dba9" />
+<img width="828" height="405" alt="image" src="https://github.com/user-attachments/assets/0c111384-8898-4266-94d8-78d3a9e5122e" />
+<img width="806" height="386" alt="image" src="https://github.com/user-attachments/assets/464859e5-3300-4499-bb11-14a6151dc9f1" />
+<img width="534" height="388" alt="image" src="https://github.com/user-attachments/assets/20db8623-6677-48de-9e36-c128822098ee" />
+
+
 ## 코드 컨벤션
+
 
 ## 3. Architecture & Git Workflow
 - **GitHub Flow** 전략: 기능 단위 브랜치 → PR → main 병합.  
