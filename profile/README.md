@@ -27,73 +27,86 @@ SESAC 7기 B팀이 개발한 **유기동물 입양 서비스 플랫폼**입니�
 ## 2. demonstration
 
 <details>
-  <summary>🖼️ Screenshot 1</summary>
+  <summary>메인페이지</summary>
 
   <img width="950" height="745" alt="image" src="https://github.com/user-attachments/assets/a32f4919-e158-4898-af4d-df26ce00af44" />
-
+  HelloPet 메인페이지 입니다.
+  
+  <br />네비게이션에서 입양게시판, 자유게시판, 로그인 기능을 이용할 수 있습니다.
+  
 </details>
 
+
 <details>
-  <summary>🖼️ Screenshot 2</summary>
+  <summary>로그인 페이지</summary>
 
   <img width="491" height="418" alt="image" src="https://github.com/user-attachments/assets/14674346-fed5-4ce4-ae93-8df0d002252c" />
-
+  <br />로그인이 가능합니다.
+  <br />회원가입 페이지로 이동할 수 있습니다.
 </details>
 
 <details>
-  <summary>🖼️ Screenshot 3</summary>
+  <summary>회원가입 페이지</summary>
 
   <img width="435" height="804" alt="image" src="https://github.com/user-attachments/assets/1f37c905-94ea-4ccb-a316-388233d65860" />
-
+  <br />유저의 정보에 따라 HelloPet 회원가입을 할 수 있습니다.
+  <br />유저, 보호소, 관리자의 역할을 선택할 수 있습니다. 
+  <br />정규식에 따라서 가입버튼이 활성화 됩니다. 
 </details>
 
 <details>
-  <summary>🖼️ Screenshot 4</summary>
+  <summary>입양게시판</summary>
 
   <img width="941" height="836" alt="image" src="https://github.com/user-attachments/assets/26588b7d-51d9-430c-a19d-c0ecfe5d8188" />
-
+  <br />유기동물 리스트를 조회할 수 있습니다.
+  <br />동물의 이름, 입양 상태, 등록일, 보호소 등을 확인할 수 있으면 클릭 시 상세정보로 이동합니다.
+  <br />페이지네이션이 구현되어있습니다. 
 </details>
 
 <details>
-  <summary>🖼️ Screenshot 5</summary>
+  <summary>입양 상세 정보 페이지</summary>
 
   <img width="500" height="847" alt="image" src="https://github.com/user-attachments/assets/9f671409-2f62-4fe2-adff-22663cdaa942" />
-
+  <br />유기동물 리스트 보다 상세한 정보를 확인할 수 있습니다.
+  <br />입양 신청 하기 및 입양게시판으로 돌아가는 버튼이 활성화 되어있습니다.
 </details>
 
 <details>
-  <summary>🖼️ Screenshot 6</summary>
+  <summary>입양신청서</summary>
 
   <img width="461" height="848" alt="image" src="https://github.com/user-attachments/assets/7880a232-dadf-4756-a778-d91f4507ca4a" />
-
+   <img width="455" height="391" alt="image" src="https://github.com/user-attachments/assets/34d4da78-884c-4090-a912-a08e40c041ee" />
+  <br />원하는 동물로 입양을 신청할 수 있습니다.
+  <br />유저의 정보에 따라 폼을 작성합니다.
 </details>
 
 <details>
-  <summary>🖼️ Screenshot 7</summary>
-
-  <img width="455" height="391" alt="image" src="https://github.com/user-attachments/assets/34d4da78-884c-4090-a912-a08e40c041ee" />
-
-</details>
-
-<details>
-  <summary>🖼️ Screenshot 8</summary>
+  <summary>자유게시판</summary>
 
   <img width="940" height="847" alt="image" src="https://github.com/user-attachments/assets/85464aa6-bbeb-4b35-b2cd-a7e4649bd443" />
-
+  <br />유저들이 자율적으로 글을 쓸 수 있는 게시판입니다.
+  <br />전체, 커뮤니티, Q&A 카테고리 설정이 가능해 원하는 게시판으로 이동할 수 있습니다.
+  <br />검색, 정렬, 새 글쓰기가 가능합니다.
+  <br />페이지네이션이 구현되어있습니다.
 </details>
 
 <details>
-  <summary>🖼️ Screenshot 9</summary>
+  <summary>게시물 상세</summary>
 
   <img width="802" height="815" alt="image" src="https://github.com/user-attachments/assets/7ec467f5-3903-4c1a-b7f6-06aa1f6c08ab" />
+  <br />지정했던 카테고리로 글을 조회할 수 있습니다.
+  <br />조회 시 조회 수, 날짜, 유저닉네임을 조회할 수 있습니다.
+  <br />게시글 제목, 내용, 사진을 조회할 수 있으며 다른 유저들의 댓글을 확인할 수 있습니다.
 
 </details>
 
 <details>
-  <summary>🖼️ Screenshot 10</summary>
+  <summary>마이페이지</summary>
 
   <img width="911" height="575" alt="image" src="https://github.com/user-attachments/assets/e7f646aa-6984-406a-8745-8e282eb335cf" />
-
+ <br />개인정보수정, 내가 쓴 게시글, 내가 쓴 댓글 버튼으로 이동이 가능합니다.
+ <br />유저의 역할에 따라 입양신청내역, 내가 쓴 입양공고, 유저리스트로 버튼이 활성화 됩니다.
+ <br />각각의 유저의 역할에 맞는 작업을 진행할 수 있습니다.
 </details>
 
 
