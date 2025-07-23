@@ -25,16 +25,76 @@ SESAC 7기 B팀이 개발한 **유기동물 입양 서비스 플랫폼**입니�
 | **자유 게시판** | Q&A/커뮤니티 글·댓글 CRUD, 페이지네이션·카테고리·정렬 지원, 마이페이지 글/댓글 관리 |  
 
 ## 2. demonstration
-<img width="950" height="745" alt="image" src="https://github.com/user-attachments/assets/a32f4919-e158-4898-af4d-df26ce00af44" />
-<img width="491" height="418" alt="image" src="https://github.com/user-attachments/assets/14674346-fed5-4ce4-ae93-8df0d002252c" />
-<img width="435" height="804" alt="image" src="https://github.com/user-attachments/assets/1f37c905-94ea-4ccb-a316-388233d65860" />
-<img width="941" height="836" alt="image" src="https://github.com/user-attachments/assets/26588b7d-51d9-430c-a19d-c0ecfe5d8188" />
-<img width="500" height="847" alt="image" src="https://github.com/user-attachments/assets/9f671409-2f62-4fe2-adff-22663cdaa942" />
-<img width="461" height="848" alt="image" src="https://github.com/user-attachments/assets/7880a232-dadf-4756-a778-d91f4507ca4a" />
-<img width="455" height="391" alt="image" src="https://github.com/user-attachments/assets/34d4da78-884c-4090-a912-a08e40c041ee" />
-<img width="940" height="847" alt="image" src="https://github.com/user-attachments/assets/85464aa6-bbeb-4b35-b2cd-a7e4649bd443" />
-<img width="802" height="815" alt="image" src="https://github.com/user-attachments/assets/7ec467f5-3903-4c1a-b7f6-06aa1f6c08ab" />
-<img width="911" height="575" alt="image" src="https://github.com/user-attachments/assets/e7f646aa-6984-406a-8745-8e282eb335cf" />
+
+<details>
+  <summary>🖼️ Screenshot 1</summary>
+
+  <img width="950" height="745" alt="image" src="https://github.com/user-attachments/assets/a32f4919-e158-4898-af4d-df26ce00af44" />
+
+</details>
+
+<details>
+  <summary>🖼️ Screenshot 2</summary>
+
+  <img width="491" height="418" alt="image" src="https://github.com/user-attachments/assets/14674346-fed5-4ce4-ae93-8df0d002252c" />
+
+</details>
+
+<details>
+  <summary>🖼️ Screenshot 3</summary>
+
+  <img width="435" height="804" alt="image" src="https://github.com/user-attachments/assets/1f37c905-94ea-4ccb-a316-388233d65860" />
+
+</details>
+
+<details>
+  <summary>🖼️ Screenshot 4</summary>
+
+  <img width="941" height="836" alt="image" src="https://github.com/user-attachments/assets/26588b7d-51d9-430c-a19d-c0ecfe5d8188" />
+
+</details>
+
+<details>
+  <summary>🖼️ Screenshot 5</summary>
+
+  <img width="500" height="847" alt="image" src="https://github.com/user-attachments/assets/9f671409-2f62-4fe2-adff-22663cdaa942" />
+
+</details>
+
+<details>
+  <summary>🖼️ Screenshot 6</summary>
+
+  <img width="461" height="848" alt="image" src="https://github.com/user-attachments/assets/7880a232-dadf-4756-a778-d91f4507ca4a" />
+
+</details>
+
+<details>
+  <summary>🖼️ Screenshot 7</summary>
+
+  <img width="455" height="391" alt="image" src="https://github.com/user-attachments/assets/34d4da78-884c-4090-a912-a08e40c041ee" />
+
+</details>
+
+<details>
+  <summary>🖼️ Screenshot 8</summary>
+
+  <img width="940" height="847" alt="image" src="https://github.com/user-attachments/assets/85464aa6-bbeb-4b35-b2cd-a7e4649bd443" />
+
+</details>
+
+<details>
+  <summary>🖼️ Screenshot 9</summary>
+
+  <img width="802" height="815" alt="image" src="https://github.com/user-attachments/assets/7ec467f5-3903-4c1a-b7f6-06aa1f6c08ab" />
+
+</details>
+
+<details>
+  <summary>🖼️ Screenshot 10</summary>
+
+  <img width="911" height="575" alt="image" src="https://github.com/user-attachments/assets/e7f646aa-6984-406a-8745-8e282eb335cf" />
+
+</details>
 
 
 
